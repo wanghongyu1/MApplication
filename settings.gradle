@@ -1,0 +1,1 @@
+include ':myapp2', ':mylist', ':lianxi_music', ':mylib', ':myapplication2', ':myapplication3'
